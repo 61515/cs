@@ -1,0 +1,11 @@
+H:\代码专存\计算器\计算器\obj\Debug\计算器.csprojResolveAssemblyReference.cache
+H:\代码专存\计算器\计算器\obj\Debug\计算器.Form1.resources
+H:\代码专存\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+H:\代码专存\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.cache
+H:\代码专存\计算器\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+H:\代码专存\计算器\计算器\bin\Debug\计算器.exe.config
+H:\代码专存\计算器\计算器\bin\Debug\计算器.exe
+H:\代码专存\计算器\计算器\bin\Debug\计算器.pdb
+H:\代码专存\计算器\计算器\obj\Debug\计算器.exe
+H:\代码专存\计算器\计算器\obj\Debug\计算器.pdb
+H:\代码专存\计算器\计算器\bin\Debug\Resources\1520422402872.jpg
